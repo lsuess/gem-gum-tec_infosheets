@@ -3,6 +3,9 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-05-30T16:48:45+02:00
 
 ====== en ======
-Created Dienstag 30 Mai 2017
 
-[[+front-cover-infosheet]]
+**Index (english)**
+
+* [[+front-cover-infosheet]]
+
+Created Tuesday 30 May 2017
