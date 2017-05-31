@@ -4,7 +4,8 @@ information sheets about atomically precise manufacturing - intended for table f
 
 **To browse the infosheets go here:**<br />
 https://lsuess.github.io/gem-gum-tec_infosheets/html-export/gem-gum-tec_infosheets.html<br />
-https://lsuess.github.io/gem-gum-tec_infosheets/html-export/index.html
+https://lsuess.github.io/gem-gum-tec_infosheets/html-export/index.html<br />
+Known issue: the index link on the index page links to the index of my homepage.
 
 **Work in progess:**<br />
 Many infosheets are finished but not yet translated and published.
@@ -18,4 +19,4 @@ http://zim-wiki.org/
 * (x) complete notebook
 * Format: HTML; Template: Default
 * Output-folder: [...]/gem-gum-tec_infosheets/html-export
-* Index-page: index.html
+* Index-page: index (without .html ending!)
