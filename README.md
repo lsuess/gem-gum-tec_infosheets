@@ -2,7 +2,7 @@
 information sheets about atomically precise manufacturing - intended for table flipcharts in A4 portrait format<br />
 (like these [amazon.de - Veloflex](https://www.amazon.de/Veloflex-Tisch-Flipchart-4102080-hoch-schwarz/dp/B000KT6VQ8))
 
-To browse them go here:<br />
+**To browse the infosheets go here:**<br />
 https://lsuess.github.io/gem-gum-tec_infosheets/html-export/gem-gum-tec_infosheets.html<br />
 https://lsuess.github.io/gem-gum-tec_infosheets/html-export/index.html
 
