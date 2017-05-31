@@ -1,7 +1,7 @@
 # gem-gum-tec_infosheets
 information sheets about atomically precise manufacturing - intended for table flipcharts in A4 portrait format
 
-To browse them go here:
+To browse them go here:<br />
 https://lsuess.github.io/gem-gum-tec_infosheets/html-export/gem-gum-tec_infosheets.html
 https://lsuess.github.io/gem-gum-tec_infosheets/html-export/index.html
 
