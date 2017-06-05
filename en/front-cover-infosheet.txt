@@ -2,10 +2,12 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 
 {{./Nanofabrik-Intro-1--en.svg?width=500}}
+--------------------
 next: [[construction-material-air]]
 previous: NONE — index [[en]]
-
+--------------------
 **front-cover-infosheet**
 Created Tuesday 30 May 2017
 * [[de:Vorderdeckel-Infoblatt]]
+--------------------
 
