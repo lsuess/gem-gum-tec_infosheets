@@ -2,6 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 
 {{./Infosheet0b-unnatürliche-Chemie--de.svg?width=500}}
+Nächstes: Entsorgen-und-recyceln
+Voriges: [[Baumaterial-Luft]]
 
 **Unnatürliche-Chemie**
 Angelegt Montag 05 Juni 2017

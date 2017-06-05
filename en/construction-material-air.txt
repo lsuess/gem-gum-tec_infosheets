@@ -4,7 +4,8 @@ Wiki-Format: zim 0.4
 
 [ ] TODO finish construction material air infosheet
 
-Next: [[unnatural-chemistry]]
+next: [[unnatural-chemistry]]
+previous: [[front-cover-infosheet]]
 
 **construction-material-air**
 Angelegt Montag 05 Juni 2017
