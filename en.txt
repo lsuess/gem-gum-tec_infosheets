@@ -6,6 +6,7 @@ Wiki-Format: zim 0.4
 **Index (English)**
 
 * [[+front-cover-infosheet]]
+* [[+myth-old-and-new]]
 * [[+construction-material-air]]
 * [[+unnatural-chemistry]]
 * [[+disposal-and-recycling]]

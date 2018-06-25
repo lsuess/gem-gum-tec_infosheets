@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-25T17:27:08+02:00
+
+====== myth-old-and-new ======
+Angelegt Montag 25 Juni 2018
+
+{{./infosheet-myth_old_and_new-(images-embedded)--en.svg?width=500}}
