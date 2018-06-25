@@ -3,10 +3,11 @@ Wiki-Format: zim 0.4
 
 ====== en ======
 
-**Index (english)**
+**Index (English)**
 
 * [[+front-cover-infosheet]]
 * [[+construction-material-air]]
 * [[+unnatural-chemistry]]
-* +0c disposal-and-recycling
+* [[+disposal-and-recycling]]
+
 Created Tuesday 30 May 2017

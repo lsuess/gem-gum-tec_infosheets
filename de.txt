@@ -3,9 +3,10 @@ Wiki-Format: zim 0.4
 
 ====== de ======
 
-**Index (deutsch)**
+**Index (Deutsch)**
 
 * [[+Vorderdeckel-Infoblatt]]
+* [[+Mythos-Alt-und-Neu]]
 * [[+Baumaterial-Luft]]
 * [[+Unnatürliche-Chemie]]
 * [[+Entsorgen-und-Recyclen]]
