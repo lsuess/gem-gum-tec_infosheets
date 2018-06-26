@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-26T20:33:43+02:00
+
+====== disposal-and-recycling ======
+Created Thuesday 26 June 2018
+
+{{./Ultraschnelles Entsorgen und Recyceln--en.svg?width=500}}
+**German version:** [[:de:Entsorgen-und-Recyclen]]
+**Related infosheets:**
+[[:en:new-materials]]
+[[:en:unnatural-chemistry]]
+
+[[+sources]]

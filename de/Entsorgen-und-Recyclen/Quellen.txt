@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-26T21:09:43+02:00
+
+====== Quellen ======
+Angelegt Dienstag 26 Juni 2018
+
+Truncated Honeycomb Spacefill
+https://commons.wikimedia.org/wiki/File:Truncated_octahedra_b.png
+
+Exponential assembly:
+http://e-drexler.com/p/04/05/0609factoryImages.html
+
+Pipe mail station:
+https://commons.wikimedia.org/wiki/File:Rohrpoststation.jpg 
+
+Bank pipe mail:
+https://commons.wikimedia.org/wiki/File:Bank_pneumatic_tubes.jpg
