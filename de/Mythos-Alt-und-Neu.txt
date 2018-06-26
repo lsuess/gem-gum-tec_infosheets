@@ -2,8 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-06-25T16:06:46+02:00
 
-====== Mythos-Alt-und-Neu ======
-Angelegt Montag 25 Juni 2018
-
 {{./infosheet-mythos_Alt_und_Neu-(images-embedded)--de.svg?width=500}}
+--------------------
+**Mythos-Alt-und-Neu**
+Angelegt Montag 25 Juni 2018
+**Englische Version:** [[:en:myth-old-and-new]]
+--------------------
 [[+Quellen]]
