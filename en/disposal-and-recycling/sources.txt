@@ -6,6 +6,7 @@ Creation-Date: 2018-06-26T21:12:17+02:00
 Angelegt Dienstag 26 Juni 2018
 
 Truncated Honeycomb Spacefill
+GFDL 1.2 / CC BY SA 3.0  AndrewKepert & SharkD 
 https://commons.wikimedia.org/wiki/File:Truncated_octahedra_b.png
 
 Exponential assembly:

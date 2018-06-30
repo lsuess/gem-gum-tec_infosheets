@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-30T07:54:43+02:00
+
+
+{{./infosheet 2017 new materials -- en.svg?width=500}}
+--------------------
+**new-materials**
+created saturday 30 June 2018
+**German version: **[[:de:Neue-Materialien]]
+**Related infosheets: **
+* [[:en:unnatural-chemistry]] (making the very few necessary high performance base materials for metamaterials)
+* [[:en:disposal-and-recycling]] (changing metamaterial properties by quickly reconfiguring ther nano and microstructure)
+--------------------
+[[+sources]]
+
+
+
