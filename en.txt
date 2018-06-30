@@ -3,12 +3,14 @@ Wiki-Format: zim 0.4
 
 ====== en ======
 
-**Index (English)**
+**Guided tour:**
 
-* [[+front-cover-infosheet]]
 * [[+myth-old-and-new]]
+* [[+front-cover-infosheet]]
+--------------------
 * [[+construction-material-air]]
 * [[+unnatural-chemistry]]
 * [[+disposal-and-recycling]]
+* [[+new-materials]]
 
 Created Tuesday 30 May 2017
